@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SocialX</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="i_agree_to_the_terms_and_condition">I agree with</string>
+    <string name="terms_and_conditions"> <u>Terms and Conditions</u></string>
+    <string name="pls_enter_a_valid_email_id">Please enter a valid email ID</string>
+    <string name="err_msg_enter_first_name">Enter your name please</string>
+    <string name="err_msg_enter_email">Enter your password please</string>
+    <string name="err_msg_enter_password">Enter a password please</string>
+    <string name="err_msg_enter_number">Enter your phone number please</string>
+    <string name="err_msg_cb">Please agree to the terms and conditions</string>
+</resources>

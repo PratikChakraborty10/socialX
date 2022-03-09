@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/auth_screen.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/login_btn.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/signup_bar.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/signup_bt_bg.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/signup_bt_bg_red.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/white_bt.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/font/new_sans.xml" value="0.175" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_forgot_password.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_signup.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/progress_dialog.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
