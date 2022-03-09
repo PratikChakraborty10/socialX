@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/auth_screen.xml" value="0.1" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/login_btn.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/news_layout.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/news_time_bg.xml" value="0.1" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/signup_bar.xml" value="0.1" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/signup_bt_bg.xml" value="0.1" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/signup_bt_bg_red.xml" value="0.1" />
@@ -13,7 +15,9 @@
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_forgot_password.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_news.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_signup.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/news_item.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/progress_dialog.xml" value="0.17552083333333332" />
       </map>
     </option>
