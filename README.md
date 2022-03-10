@@ -12,6 +12,7 @@ https://youtu.be/xrz1UHmWcww
 
 - *Volley* - for API Calls and Caching the data
 - *Glide* - for loading the images from API Source in the recycler View
+- *Lottie* - for animation view in progress bar
 - *Firebase* - for user authentication
 - *SearchView* - for searching the specific news
 
