@@ -14,56 +14,56 @@
         android:id="@+id/news_img"
         android:layout_width="120dp"
         android:layout_height="240dp"
-        android:layout_alignParentEnd="true"
         android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="false"
         android:scaleType="centerCrop"
-        android:src="@drawable/news_sample_img"/>
+        android:src="@drawable/news_sample_img" />
 
     <TextView
         android:id="@+id/title_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
         android:layout_alignStart="@id/news_img"
-        android:layout_marginEnd="130dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:textSize="16sp"
-        android:textColor="@color/black"
+        android:layout_marginEnd="130dp"
+        android:ellipsize="end"
         android:fontFamily="@font/product_sans_bold"
         android:maxLines="3"
-        android:ellipsize="end"
-        android:text="Coronavirus symptoms: 5 long COVID symptoms to look out for - Times of India"/>
+        android:text="Coronavirus symptoms: 5 long COVID symptoms to look out for - Times of India"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
 
     <TextView
         android:id="@+id/desc_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignStart="@id/news_img"
-        android:layout_marginEnd="130dp"
         android:layout_below="@id/title_tv"
-        android:layout_marginTop="80dp"
+        android:layout_alignStart="@id/news_img"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
         android:layout_marginStart="16dp"
-        android:textSize="14sp"
-        android:maxLines="4"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="130dp"
         android:ellipsize="end"
-        android:text="experts have found a connection between long COVID and nerve damage. Researchers at Massachusetts General Hospital and the National Institutes of Health have revealed evidence of peripheral neuropath… [+616 chars]"/>
+        android:maxLines="4"
+        android:text="experts have found a connection between long COVID and nerve damage. Researchers at Massachusetts General Hospital and the National Institutes of Health have revealed evidence of peripheral neuropath… [+616 chars]"
+        android:textSize="14sp" />
 
     <TextView
         android:id="@+id/publisher_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
         android:layout_below="@id/desc_tv"
+        android:layout_alignParentStart="true"
         android:layout_marginStart="16dp"
-        android:textSize="16sp"
         android:layout_marginTop="12dp"
         android:fontFamily="@font/product_sans_bold"
-        android:text="BBC News"/>
+        android:text="BBC News"
+        android:textSize="16sp" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="190dp"

@@ -10,15 +10,20 @@
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/signup_bar.xml" value="0.1" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/signup_bt_bg.xml" value="0.1" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/signup_bt_bg_red.xml" value="0.1" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/submit_bt_bg.xml" value="0.1" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/drawable/white_bt.xml" value="0.1" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/font/new_sans.xml" value="0.175" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_forgot_password.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_news.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_search_news.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_settings.xml" value="0.20052083333333334" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/activity_signup.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/news_item.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/layout/progress_dialog.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/menu/menu.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/bille/AndroidStudioProjects/SocialX/app/src/main/res/menu/menu_item.xml" value="0.20052083333333334" />
       </map>
     </option>
   </component>

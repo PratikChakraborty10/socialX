@@ -123,7 +123,7 @@ open class LoginActivity : BaseActivity(), View.OnClickListener {
                 .addOnCompleteListener { task ->
                     hideProgressDialog()
                     if(task.isSuccessful) {
-                        startActivity(Intent(this@LoginActivity, MainActivity::class.java))
+                        startActivity(Intent(this@LoginActivity, NewsActivity::class.java))
                         finish()
                         showErrorFunction("You logged in successfully", false)
                     } else {

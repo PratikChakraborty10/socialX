@@ -9,4 +9,6 @@
     <string name="err_msg_enter_password">Enter a password please</string>
     <string name="err_msg_enter_number">Enter your phone number please</string>
     <string name="err_msg_cb">Please agree to the terms and conditions</string>
+    <string name="email_send_text">Enter your e-mail address\nWe will send you a verication email to reset your password</string>
+    <string name="email_sent_success">Email sent successfully to reset your password!</string>
 </resources>
