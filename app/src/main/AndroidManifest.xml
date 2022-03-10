@@ -30,7 +30,8 @@
             android:exported="false" />
         <activity
             android:name=".auth.LoginActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/Theme.NewsActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
