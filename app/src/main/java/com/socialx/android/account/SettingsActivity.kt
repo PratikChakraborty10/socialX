@@ -9,6 +9,8 @@ import com.google.firebase.auth.FirebaseAuth
 import com.socialx.android.R
 import com.socialx.android.auth.LoginActivity
 import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.activity_main.logout_btn
+import kotlinx.android.synthetic.main.activity_settings.*
 
 class SettingsActivity : AppCompatActivity() {
 
@@ -31,7 +33,7 @@ class SettingsActivity : AppCompatActivity() {
             startActivity(Intent(this, LoginActivity::class.java))
             finish()
         }
-        logout_btn.setOnClickListener {
+        logout_btn_settings.setOnClickListener {
             auth.signOut()
             startActivity(Intent(this, LoginActivity::class.java))
             finish()

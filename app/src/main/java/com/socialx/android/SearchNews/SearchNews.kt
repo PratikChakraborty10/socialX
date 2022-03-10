@@ -32,22 +32,37 @@ class SearchNews : AppCompatActivity() {
 
         imageId = arrayOf(
             R.drawable.a,
-            R.drawable.b
+            R.drawable.b,
+            R.drawable.c,
+            R.drawable.d,
+            R.drawable.e
         )
         heading = arrayOf(
             "Technical Analysis: LUNA Hits New High, as Biden Signs Crypto Executive Order – Market Updates Bitcoin News - Bitcoin News",
-            "Gold Price Forecast: XAUUSD battling to recover the \$2,000 level - FXStreet"
+            "Gold Price Forecast: XAUUSD battling to recover the \$2,000 level - FXStreet",
+            "Shiba Inu is All Set to Reach US\$0.000030 in the Coming Days - Analytics Insight",
+            "Oil rises as market weighs OPEC filling Russia supply gap By Reuters - Investing.com",
+            "UP Election Results 2022 LIVE: BJP’s ‘bulldozer’ gets thumbs up from UP, Yogi shatters 37-year record to return as CM"
         )
         desc = arrayOf(
             "LUNA hits a new all-time high, as markets reacted to news that U.S. President Joe Biden had signed an executive order on cryptocurrencies.",
-            "Gold Price retreated sharply from \$2,070.50 a troy ounce, now trading in the \$1,990 price zone, as fears about an escalation in the Ukraine-Russia cri"
+            "Gold Price retreated sharply from \$2,070.50 a troy ounce, now trading in the \$1,990 price zone, as fears about an escalation in the Ukraine-Russia cri",
+            "Shiba Inu price has found a resistance level at US$0.0000227, which will help the cryptocurrency reach new heights. The Dogecoin killer is expected to break through US$0.000030 in the coming days.",
+            "Oil rises as market weighs OPEC filling Russia supply gap",
+            "UP Election Results 2022 Live, Uttar Pradesh Election Live Vote Counting, UP Assembly Election Results 2022 Live Updates: The BJP is on its course to retain power in the politically crucial state with Yogi Adityanath set to become chief minister for a second straight term"
         )
         author = arrayOf(
             "Bitcoin - News",
-            "FXStreet"
+            "FXStreet",
+            "Adilin Beatrice",
+            "Reuters",
+            "Financial Express"
         )
         time = arrayOf(
             "3 hours ago",
+            "1 hours ago",
+            "1 hours ago",
+            "2 hours ago",
             "1 hours ago"
         )
         newRecyclerView = findViewById(R.id.recyclerViewSearch)

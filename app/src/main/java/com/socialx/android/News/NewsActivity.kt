@@ -13,6 +13,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.android.volley.Request
 import com.android.volley.Response
 import com.android.volley.toolbox.JsonObjectRequest
+import com.socialx.android.MainActivity
 import com.socialx.android.News.data.MySingleton
 import com.socialx.android.News.data.NewsListAdapter
 import com.socialx.android.News.data.PostModel
